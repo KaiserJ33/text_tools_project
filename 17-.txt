@@ -1,0 +1,95 @@
+Dispatcher: 911, what's the address of your emergency?
+Caller: My daughter is missing. 
+Dispatcher: Okay, how old is she?
+Caller: She's five.
+Dispatcher: Okay, what's her name?
+Caller: [daughter's name]. 
+Dispatcher: What's she wearing?
+Caller: Last night when she went to bed she was wearing a red tank top and blue jeans. 
+Dispatcher: What time did you last see her?
+Caller: Last night when I went to bed. I went to bed around 1 or 2 in the morning.
+Dispatcher: Any idea where she might have gone? Any family members nearby?
+Caller: Her uncle, her mom's brother, slept over and he's gone, too. We- we woke up and the front door is wide open and we can't find-
+Dispatcher: Okay. What's the uncle's name that stayed the night?
+Caller: [uncle's first name].
+Dispatcher: Okay. Do you know where he went?
+Caller: (unintelligible) hat is still here. I have no idea.
+Dispatcher: Okay. 
+Caller: I just woke up and they're gone. I mean- I- I don't know what to do.
+Dispatcher: Okay. I'm just going to keep asking you questions. I've got officers headed that way, okay? I just need you to answer my questions as accurately as possible so we can get you the best help, okay?
+Caller: Okay.
+Dispatcher: Alright. What time do you- uh- did you just wake up and find her missing? 
+Caller: Uh- ten minutes ago. 
+Dispatcher: Okay.
+Caller: We were searching the house and the yard.
+Dispatcher: Alright. And what is [uncle's first name]'s last name?
+Caller: [uncle's surname].
+Dispatcher: Spell it for me.
+Caller: [uncle's surname]. 
+Dispatcher: Okay. Have you checked all of the closets and under the beds and everything? Make sure she's not hiding?
+Caller: Yeah.
+Dispatcher: Okay. 
+Caller: Yeah.
+Dispatcher: Alright. Are you there by yourself?
+Caller: Uh- my- my wife, her mom, is here, too.
+Dispatcher: Okay. My partner has got them headed that way. We're already putting out an attempt to locate on your child, okay? I just need you to stay with me and answer my questions. 
+Caller: Okay.
+Dispatcher: Alright? I know it's scary. I'm going to ask you some physical uh- questions about your daughter, okay?
+Caller: Okay.
+Dispatcher: Alright. Is her last name [daughter's name]?
+Caller: [daughter's name].
+Dispatcher: [daughter's name]? Okay. Where was she born?
+Caller: Uh- she was born uh- in [place].
+Dispatcher: Okay. Does she have a middle name?
+Caller: Uh- her middle name is [daughter's middle name].
+Dispatcher: [daughter's middle name], okay. Alright, how tall is she?
+Caller:  Uh- three- three and a half feet.
+Dispatcher: Okay. What color is her hair?
+Caller: Her hair is brown and goes past her shoulders by a few inches.
+Dispatcher: Okay. What race is she?
+Caller: She's Caucasian.
+Dispatcher: Okay. How much does she weigh?
+Caller: Uh- about uh- 40 pounds.
+Dispatcher: Okay. What's her date of birth?
+Caller: Her- uh- [daughter's birth date].
+Dispatcher: Okay. And what color are her eyes?
+Caller: Her eyes are brown.
+Dispatcher: Okay. Does she have any scars or marks or wear glasses?
+Caller: Uh- no. 
+Dispatcher: No birthmarks or anything?
+Caller: Uh- no. I don't-  don't think so.
+Dispatcher: Alright. And she doesn't wear glasses, correct?
+Caller: No, she doesn't wear glasses.
+Dispatcher: Okay. What is your name?
+Caller: My name is [caller's name].
+Dispatcher: Spell your first name for me, so I have it right.
+Caller: [caller's first name].
+Dispatcher: Alright, does she have any health issues we need to be aware of?
+Caller: No. 
+Dispatcher: Okay.
+Caller: No, no. She's healthy. 
+Dispatcher: Okay. Is there any sort of custody dispute going on?
+Caller: No.
+Dispatcher: Okay. We don't need to worry about another parent picking her up without permission or anything?
+Caller: Uh- her- haven't seen her biological father in years. I- I don't think so.
+Dispatcher: Okay. Does [uncle's name] live in [place]?
+Caller: Uh- he- no he's in [town].
+Dispatcher: He lives in [town]? Okay. 
+Caller: I think.
+Dispatcher: Does [uncle's name] have a cellphone number that you can call?
+Caller: No, I don't have his number. I tried calling him on Facebook and he didn't answer. 
+Dispatcher: Okay. 
+Caller: (to wife) did you say his phone is here? His- 
+Dispatcher: [Uncle's name]'s phone is at the house?
+Caller: It's- it's what my wife is telling me.
+Dispatcher: Okay. 
+Caller: His phone, his hat, his skateboard.
+Dispatcher: Okay. Alright, have you made contact with any friends or neighbors close by?
+Caller: No.
+Dispatcher: Okay.
+Caller: We called- we- we called uh- my wife's stepmom to- cause [uncle's name] was staying with her (unintelligible), so we called her to see if she had heard from [uncle's name].
+Dispatcher: Okay. Alright, we're updating the officers with information, okay? I'm going to go ahead and let you go. If she returns, call me back immediately on 911. They'll be there shortly to speak with you, okay?
+Caller: Okay.
+Dispatcher: Alright, good bye [caller's name].
+Caller: Okay.
+Dispatcher: Byebye. 

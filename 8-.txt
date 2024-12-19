@@ -1,0 +1,64 @@
+Dispatcher: [location] 911, what's the address of your emergency?
+Caller: Uh- uh- [address]. I- I need to report a missing child.
+Dispatcher: Alright, repeat- repeat that address for verification?
+Caller: Uh- uh- [address]. 
+Dispatcher: Alright, and tell me exactly what's happening.
+Caller: Uh- I can't- we can’t find my daughter. She was playing outside and now I can’t find her and I- please. (unintelligible).
+Dispatcher: Okay, how old is she?
+Caller: She is 6. She’s gonna be 7 in June.
+Dispatcher: Okay. Alright. Alright, I’m gonna stay on the line with you, but I’m gonna get [location] on- [location] PD on the line too, but I’m gonna stay on the line so don’t hang up, okay?
+Police: [location] 911, is your emergency police, fire or medical?
+Dispatcher: Hey [location], this is [location]. I've got a lady at [address]. Uh- her 6-year-old was in the front yard and she can't find her now.
+Police: Alright, hold on. What's the number? [address]?
+Dispatcher: [address]. And I have her phone number. I'm going to stay on the line so it doesn't get disconnected. And I'm going to stay on the line just so it doesn't hang up.
+Police: Okay, ma’am?
+Dispatcher: Alright, ma'am?
+Caller: Yes?
+Dispatcher: You're on the phone with [location]. Go ahead. 
+Police: Yes, ma'am. Can you tell me what your son’s name is?
+Caller: Uh- my daughter's name is [daughter's name].
+Police: Alright, hold on, hold on. Hold- hold on. Alright, what was the first name again?
+Caller: [daughter's first name]. 
+Police: [daughter's first name]?
+Caller: Yes, ma’am.
+Police: Okay, and what’s the last name? 
+Caller: [daughter's surname].
+Police: Spell that for me.
+Caller: [daughter's surname]. 
+Police: Okay, and what was she wearing?
+Caller: Uh- she was wearing, uh- polka dotted rain boots, uh- uh- a flowered skirt and, uh-
+Police: A flowered skirt or- well, hold on. A solid skirt or a flowered skirt?
+Caller: Flowered. Uh- it was, uh- a pink rose skirt. 
+Police: Okay.
+Caller:  And, uh- a black-
+Police: And what kind of shirt?
+Caller: A black t-shirt that has, uh- a neon design on it.
+Police: And how long has she been gone?
+Caller: Uh- well- the last time- the last I saw her was probably about an hour ago.
+Police: How tall is she?
+Caller: Uh- she is 3’10”.
+Police: 3 foot? How much does she weigh?
+Caller: Uh- 65 pounds.
+Police: Alright, stay on the phone with me. Do not hang up. What's your name?
+Caller: Uh- my name is [caller's name].
+Police: You last saw her in the front yard. You didn't see which way she went or anything like that?
+Caller: No, she just- she just ran right- right in front of my front porch. 
+Police: Okay, does she have any (unintelligible)?
+Caller: No. 
+Police: Alright, have you possibly- uh- have you walked around and tried to locate her? 
+Caller: Yes, ma’am. 
+Police: Okay, here's what I want you to do. I want you to stay in your yard, okay? 
+Caller: Okay.
+Police: ‘Cause we have a unit out that has a dog in case we need to try to track her, okay?
+Caller: Okay. 
+Police: So we- we don't need you walking. If you can just- if you can just kind of stay close to the last place she was. Hold on just a second.
+Caller: Yes, ma'am?
+Police: Do you have any idea where she'd go? Have you looked in the back yard?
+Caller: (unintelligible)
+Police: I'm sorry?
+Caller: Yes, ma'am. Uh- I checked, uh- I checked all, uh- all the houses in my neighborhood and anybody that’s actually answered they’re out looking for her, too. 
+Police: Does she have a dog or anything with her?
+Caller: No. 
+Police: Okay, my officer will be there in just a few minutes. 
+
+

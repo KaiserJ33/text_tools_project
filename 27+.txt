@@ -1,0 +1,74 @@
+Dispatcher: Police Emergency?
+Caller: Oh, hiya. Uh- I think we’ve been burgled and my wife’s been attacked. 
+Dispatcher: Where about? What’s- what's the address?
+Caller: We’re on [address].
+Dispatcher: Right, is that where your wife is now?
+Caller: Yeah, well, I’ve just come home, I was- I was just out. I- I went to get, like, something to eat and see the lads at work and get my laptop-
+Dispatcher: Yeah. 
+Caller:  -and I’ve just come home and the house is ransacked and she’s just on the floor. She’s got duct tape all over her and she’s, like, unconscious.
+Dispatcher: Right. 
+Caller: I’m trying- should I take this duct tape off her?
+Dispatcher: Can she breathe?
+Caller: Well, no, because she’s knocked unconscious.
+Dispatcher: Take the- take the duct tape off her then. 
+Caller: Please, can you send someone quick?
+Dispatcher: Yeah, I am- I am- I am. Can I take your name please?
+Caller: My name’s [caller's name]. 
+Dispatcher: Okay. 
+Caller: I can’t get it off her. My battery’s really low as well, so if I die-
+Dispatcher: Yeah, yeah. I’m gonna get someone straight out, okay?
+Caller: How long will it be?
+Dispatcher: I’m gonna get them traveling on blue lights and we’re gonna get an ambulance straight out as well. 
+Caller: Okay. 
+Dispatcher: Okay. You said your wife’s- can- is your wife breathing? Can you feel a pulse? 
+Caller: No, I ju- I- I can’t feel anything. Her hands are really cold.
+Dispatcher: How long have you been out of the house?
+Caller: About an hour. 
+Dispatcher: What’s your wife called, please?
+Caller: [wife's name]. 
+Dispatcher: What’s the date of birth?
+Caller: [wrong birth date], no, [correct birth date].
+Dispatcher: Just try and stay calm, okay? Is it [caller's name] I’m speaking to?
+Caller: Yeah, it is. 
+Dispatcher: Listen, listen. We’ve got police traveling down now, okay? We’ve got police traveling down now, okay? 
+Caller: Can you ring my dad, please?
+Dispatcher: What, sorry?
+Caller: Can you ring my dad? 
+Dispatcher: Do you- do you want to ring him?
+Caller: Well- well should I wait for the- I don’t know what to do? 
+Dispatcher: Lis- li- listen, we’ve got officers on the way to you now. We’ve got a few units heading towards, okay?  Okay, listen, listen, [caller's name]. What I want to do, I’m going to hang up the call. We’ve got lots of units heading towards, okay? Ring your dad up, ring your dad up.  
+Caller: Yeah. 
+Dispatcher: Just- just stay with your wife. Are there any other people in the house? Have you got any children in the house?
+Caller: No, we don’t have any children. 
+Dispatcher: Right, okay.
+Caller: We- we live on our own. We’re- we're the pharmacists at [street name]. 
+Dispatcher: Right. 
+Caller: My parents live in [town name]. 
+Dispatcher: Right. 
+Caller: Yeah, I’ve got the duct tape off her. It was- it was on her legs, right? By her ankles and on her arms tight like she had been tied up, but her hands are really cold! 
+Dispatcher: Are there any- are there any- uh- marks on her at all?
+Caller: Well, I can see marks on the neck, like, really dark neck. 
+Dispatcher: She’s been tied up by her hands?
+Caller: Yeah. 
+Dispatcher: And also uh- tape around her legs?
+Caller: Yeah. 
+Dispatcher: And marks around her neck?
+Caller: Yeah. She’s got, like, blood on her nose and, like, stuff dripping out onto the floor. 
+Dispatcher: Alright. What position is she lying in at the moment?
+Caller: She’s in the recovery position. I put her in that already. 
+Dispatcher: Okay, okay. And- and she's not re- she is non-responsive?
+Caller: No. [wife's name], come on, baby. Wake up!
+Dispatcher: We've got- [caller's name; x3]. Just please, listen to me, please. 
+Caller: Baby, wake up. 
+Dispatcher: We’ve got- we've got an ambulance coming. They’re traveling on blue lights as well, okay, and we’ve got, we’ve got-
+Caller: Will you ring my dad, please?
+Dispatcher: There’s no- there’s nobody on scene, is there, [caller's name]?
+Caller: No, there’s nobody here. I don't think so. We're in the house. 
+Dispatcher: Okay, what- what room are you in?
+Caller: I'm here!
+Dispatcher: Okay, listen- listen. The police are outside. Can you let the police officers in?
+Caller: They're here. It’s [wife's name]. 
+Dispatcher: I’ll leave it with you. Okay, [caller's name]? I’ll leave it with the police officers.. 
+Caller: Okay. 
+Dispatcher: Okay. 
+Caller: Okay. 

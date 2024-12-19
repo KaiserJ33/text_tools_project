@@ -1,0 +1,61 @@
+Dispatcher: [location] Police.
+Caller: Hi. Yes, uh- I need some help.
+Dispatcher: Okay, where you at?
+Caller: Uh, [address]
+Dispatcher: [address]?
+Caller: Yeah.
+Dispatcher: Okay, what's going on?
+Caller: I- I- I can't find my daughter. 
+Dispatcher: Okay, how old is she?
+Caller: Uh- 5, she just turned 5. [someone's name], stop it.
+Dispatcher: Okay, and you’re at [restaurant name]?
+Caller: [restaurant name], yeah.
+Dispatcher: When was the last time you seen her?
+Caller: Uh-, uh- this afternoon, probably?
+Dispatcher: Around what time?
+Caller: Uh-, Three, maybe four? Five?
+Dispatcher: So you haven’t seen her in 5 hours?
+Caller: We saw her at 5?
+Dispatcher: What was she wearing?
+Caller: [to someone] Oh, oh okay. What?
+Dispatcher: What was she wearing?
+Caller: Uh-, She’s wearing a purple winter coat. Uh-, I- I- I don't know what those things are called, but they're not jeans. They're like, uh-
+Dispatcher: Like leggings?
+Caller: Yeah, yeah, yeah.
+Dispatcher: What color were they?
+Caller: Uh-, Grayish.
+Dispatcher: Okay, and you haven't seen her in five hours?
+Caller: About, yeah. I- I mean, she was there sleeping. I mean, you know.
+Dispatcher:  Where was she sleeping at, in the restaurant?
+Caller: Yeah. Yeah. She- she was sleeping there and I picked up my older daughter from school. We all saw her sleeping there. So, and-and, you know, we went to work and, you know, we let her sleep. We-and- and we got busy and then, uh- uh- after we got busy, you know, we started cleaning up and then, you know, we opened the door and she's not here.
+Dispatcher:  Hold on one second, okay? Okay, so what’s your name?
+Caller: [caller's name].
+Dispatcher:  Okay, do you have any videos or anything in there where you can see- a video to see if she was laying there? 
+Caller: No. No, no, no. We don't have any security cameras, there’s just, uh- in the restaurant. We've been here for six years, we never had security cameras here.
+Dispatcher:  Okay.
+Caller: But we-we saw her, like all of us. Like, my wife, myself and my older daughter. When we came back, when I picked up my uh- uh- older daughter from school, we saw her there sleeping. 
+Dispatcher:  Okay, and so was there any suspicious people that came in at all? Do you think she could have ran out somewhere? 
+Caller: No, no, no. I- I have no idea. I mean, she was sleeping in the back. It's kind of hard to say when she was-
+Dispatcher:  None of your employees have seen her?
+Caller: -how long she’s been missing. There's only two of us, just myself and my wife. There's nobody else in the restaurant. There’s only 3 people in the restaurant, yeah.
+Dispatcher:  So, when you guys left who was there with you? Like, who was there with your daughter when you guys left to go get your other kid from school? 
+Caller: My wife. I- I go pick her up myself. My wife is here in the restaurant. But when we came back, she's here. Like, my wife is here, the restaurant’s open. The restaurant’s always open. Uh- I usually open up, uh- I- I pick my- I drop my daughter off, I'm sorry. I drop my daughter off at school in the morning and then we come here to open up. 
+Dispatcher: But right now, though, like, when you left, you said you, your wife and your daughter left to go pick up your daughter from school?
+Caller: No, I didn't say that. I said my wife is here all the time. 
+Dispatcher:  Okay, and your wife hasn't seen her either since around four or five o'clock? 
+Caller: Okay, okay. Uh- I think you- Okay. When we pick- I'm sorry. What I meant was myself, okay? When I went to pick up my daughter, when we came back, my- myself and my daughter, not my wife. My wife was here the whole time. 
+Dispatcher: Okay.
+Caller: When we came back-
+Dispatcher: So your wife hasn't seen her since around the four or five o'clock either? 
+Caller: Uh- Yes. Uh- I mean. [Speaks Mandarin to wife]. She said she’s not sure before we got busy, uh- usually get busy around four or five o'clock. That's the best time we can, you know, like- The last time we saw-
+Dispatcher: That's right. What's your- uh- what's your daughter's name?
+Caller: [daughter's name], [daughter's name]. 
+Dispatcher: Okay. All right, my officer’s outside. If you want to go and meet my officer at the door, okay? 
+Caller: He’s here right now?
+Dispatcher:  Yeah, he's already outside. 
+Caller: In the front or the back? 
+Dispatcher: He should be in the front.
+Caller: Okay. All right.
+Dispatcher:  Okay.
+Caller: Okay. Thank you. Thank you.
+Dispatcher:  Uh huh. Bye.

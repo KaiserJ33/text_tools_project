@@ -1,0 +1,59 @@
+Dispatcher:  911, do you need police, fire, or ambulance? 
+Caller:  Uh- I believe the police.  
+Dispatcher: Where are you located? 
+Caller:  My address is [address]. 
+Dispatcher:  Okay, stay on the line one moment. Your cell number is [number]?
+Dispatcher: [location] Police, [officer's name]
+Caller:  Uh- yes, uh- officer 
+Dispatcher: [location] Police, [officer's name] 
+Caller:  Uh- yes, [officer's name], uh- I just came home from the store and it looks like my husband is deceased.  
+Dispatcher: Okay, uh- uh- and where is this at? 
+Caller:  My address is [address].
+Dispatcher:  Okay, and your name? 
+Caller:  My name is [caller's name]. 
+Dispatcher:  Okay. 
+Caller: I- I have an 11-year-old child here. Should I- should I- uh- take him somewhere?  
+Dispatcher:  Um, we’ll have somebody come over there right away.  
+Caller:  Okay. 
+Dispatcher:  Um- how old is your husband? 
+Caller:  Uh- he’s 50, let’s see, he was born in ‘56. 
+Dispatcher:  Okay. 
+Caller: So- uh-
+Dispatcher:  Okay, where is he located? 
+Caller:  He’s in the den, in the back of the house.  
+Dispatcher:  Okay. Had he been ailing, or? 
+Caller:  Uh- no, uh- he, uh- he got a letter from the Internal Revenue Service the other day wanting $17,000 and then the following day he got a letter from, uh- some collection company wanting $16,000 and tomorrow they are supposed to sell our home at Sheriff’s auction.  
+Dispatcher: It’s, uh, [caller's address].  
+Caller:  So- I- we had a- we had had an argument and we had had an argument yesterday. 
+Dispatcher:  Okay. 
+Caller: And, uh- uh-  
+Dispatcher:  Have, how close did you get to him just now, I mean, is, is, does it look like he’s done something to himself, or? 
+Caller:  He has- he has plastic wrap it looks like on his head and there’s a roll laying on the floor. 
+Dispatcher:  He’s rolling on the floor? 
+Caller:  No, he has- 
+Dispatcher:  Oh, oh, there’s a roll of it on the floor? 
+Caller:  There’s a roll of it on the floor, it looks like it came out of- came out of the kitchen.  
+Dispatcher:  Okay. 
+Caller: And he left a one-line note.  
+Dispatcher:  Okay. 
+Caller: So, I- I- I- I- don’t know.   
+Dispatcher:  So, is, have you touched him or anything like that? Does he feel-
+Caller:  I- I- I- touched his leg, he feels cold. 
+Dispatcher: Cold to the touch? Okay.  
+Caller:  It looks- it looks like there’s blood coming out of his mouth of something. I-
+Dispatcher:  Okay. 
+Caller: He’s- he’s- facing the back of the sofa so I can’t tell. 
+Dispatcher:  When was the last time you saw him, uh, alive? 
+Caller: Uh- I was watching TV and I think he got up to go to the bathroom, maybe 2:00 o' clock. 
+Dispatcher:  2:00 o' clock in the morning?  
+Caller:  2:00 o'clock in the morning, yeah.  
+Dispatcher:  Okay. Okay. And you say there’s a child there with you? 
+Caller:  Yes. My- my son is 11.  
+Dispatcher:  Son is 11. And where is he at? 
+Caller:  He’s in the front room. 
+Dispatcher:  Okay. Alright, we’ll have officers there shortly. Don’t- don’t disturb anything and, uh-
+Caller: Okay
+Dispatcher: -they’ll let you know. Okay? 
+Caller:  Thank you. 
+Dispatcher: Thank you.  
+Caller:  Um hm, bye.  

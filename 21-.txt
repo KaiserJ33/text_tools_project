@@ -1,0 +1,52 @@
+Dispatcher: Police emergency, this is [dispatcher's name]?
+Caller: Yeah, hi. My son is missing. He's three and a half. Uh- sorry?
+Dispatcher: What's you address?
+Caller: Uh- uh- [address].
+Dispatcher: I'm going to bring that up on my map. It might be a moment.
+Caller: Thank you.
+Dispatcher: How long has he been missing?
+Caller: I- well- I think- well we've been looking in- for him now for about 15 or 20 minutes but-
+Dispatcher: Okay. 
+Caller: I thought it could be five. It could be longer because he was just playing around, and we heard him and then we heard nothing. 
+Dispatcher: Okay. So what's the nearest cross-street? Being [name of cross-street], is that right?
+Caller: Uh- what is it?
+Dispatcher: [name of cross-street]?
+Caller: I don't know. My- this is my mom's house. I- uh- 
+Dispatcher: Okay. 
+Caller: Hang on. There's another lady out helping us looking and I'll see if I can find her. But it's [address].
+Dispatcher: Yep. Yeah, I can- I can see where you are, I'm just gonna- yeah, so it's [address]. I've just got- I've got you near a cross-street at [location].
+Caller: It could be, I don't know.
+Dispatcher: Okay. So he's been missing since about 10:30?
+Caller: Yeah, I'd say so.
+Dispatcher: Okay, can you describe him to me? How tall- obviously not very tall (unintelligible)- 
+Caller: No, he's- he's- he'd be about two and a half feet? He's wearing a spiderman outfit. 
+Dispatcher: Yep. What kind of hair has he got?
+Caller: He's got uh- dark sandy colored hair, it's short and he's got really big brown and green colored eyes. 
+Dispatcher: Okay. Has he got any (unintelligible) or any other distinguishing features?
+Caller: Uh- uh- uh- he has- oh, he's got a freckle on the top of his head when you part the hair on the left-hand side. 
+Dispatcher: Yep.
+Caller: You'll see a freckle on the top of his head.
+Dispatcher: Okay. Alright. Do you know where he might have gone?
+Caller: Uh- we're- we actually live near [location]. 
+Dispatcher: Okay.
+Caller: And they're on huge blocks. We've walked up and down [street name] and we can't find him.
+Dispatcher: Okay. What's his name?
+Caller: [son's name].
+Dispatcher: What's [son's first name]'s surname?
+Caller: [son's surname].
+Dispatcher: Okay. Has he been known to sort of go anywhere (unintelligible)
+Caller: No, this is the first time.
+Dispatcher: The first time, okay.
+Caller: Totally out of character. 
+Dispatcher: There wasn't anyone uh- suspicious in the area? Any people?
+Caller: No. No, no, no. Well not that I've- no, not that I'm aware of. We were just- I was out there talking mom and my other daughter, so- And we heard him roaring around the garden and then I said 'oh, I haven't heard him, I'd better go check on him' and-
+Dispatcher: Okay. Okay. Alright.
+Caller: -I can't find him.
+Dispatcher: Well, we'll send police to see you at [address]. We'll get the message broadcasted to all the cars so people to look out for him as well, okay?
+Caller: Yes, okay. Thank you. 
+Dispatcher: Alright. Thank you.
+Caller: Byebye.
+Dispatcher: Bye. 
+
+
+

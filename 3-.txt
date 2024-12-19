@@ -1,0 +1,69 @@
+Dispatcher: 911, what is the location of your emergency?
+Caller: Yes, ma’am. It's [address].
+Dispatcher: And repeat the address for verification.
+Caller: [address].
+Dispatcher: What’s a good phone number for you?
+Caller: [phone number]
+Dispatcher: Okay. Tell me exactly what happened.
+Caller: Oh, it’s the first time I’ve been home in like three weeks. Uh- my fiancée has been staying here-
+Dispatcher: Uh huh.
+Caller: -and I had nowhere else to go tonight. So I asked her, ‘Hey are you awake?’ etc. and she didn’t answer. So I came home, and it’s so bad. It’s so bad.
+Dispatcher: What happened?
+Caller: I- I saw my rifle.
+Dispatcher: Okay, did- so did she shoot herself?
+Caller: At her feet, at her feet. Yes, I think so. I think so. Her brain is laying on the carpet and her head is split wide open.
+Dispatcher: Okay. Where is the gun at now?
+Caller: It’s- it's at her feet.
+Dispatcher: Okay. And you said it’s a rifle?
+Caller: Yes, ma’am.
+Dispatcher: Okay. Have you seen any other weapons?
+Caller: No, ma’am. I- I have a shotgun in the closet- if it’s still there. I haven’t even checked. But there was only my rifle that it looks like she got out of the case.
+Dispatcher: Okay. And is any one else injured that you know of?
+Caller: No, ma’am.
+Dispatcher: Okay. What is her name?
+Caller: Her name is [girlfriend's name].
+Dispatcher: Okay. What race is she?
+Caller: White.
+Dispatcher: How old is she?
+Caller: Uh- 27, 28. She was born in ’91. Sorry, I can’t think right now.
+Dispatcher: That’s okay. You said she was 27 or 28?
+Caller: Yes, ma’am.
+Dispatcher: How tall is she?
+Caller: About 5-7.
+Dispatcher: Is she thin, medium or heavy build?
+Caller: Thin.
+Dispatcher: Okay. Can you tell at all what she’s wearing right now?
+Caller: Uh- I can’t remember. I’m sitting on the back porch.
+Dispatcher: That’s okay, that’s okay.
+Caller: Yeah, it was a T-shirt and looked like uh- sleep pants or something.
+Dispatcher: Okay. Does she have a vehicle there?
+Caller: She does.
+Dispatcher: Okay.
+Caller: It’s in the garage.
+Dispatcher: Okay. What kind of vehicle does she drive?
+Caller: It’s a white uh- 2006 Acura SUV. I think it’s called an MDX.
+Dispatcher: Okay. Do you know what the tag number is on it?
+Caller: I don’t. I can get into the garage and tell you.
+Dispatcher: No, that’s okay. It’s not a big deal at all. 
+Caller: Okay, okay.
+Dispatcher: I just have to make sure I get a description. Okay, and what is your name?
+Caller: My name is [caller's name].
+Dispatcher: Okay. And I’ve got to go ahead and get a description of you also. What race are you?
+Caller: I am uh- half-white, half-Mexican.
+Dispatcher: Okay. And how old are you?
+Caller: I'm 34.
+Dispatcher: How tall are you?
+Caller: Uh- 6-2.
+Dispatcher: Thin, medium or heavy build?
+Caller: Skinny.
+Dispatcher: Okay. What are you wearing?
+Caller: I’m wearing a blue shirt and kind of uh- white- not white pants, but they- they would look white.
+Dispatcher: Okay. That’s fine. And do you have a vehicle there?
+Caller: Yes I do.
+Dispatcher: What do you drive?
+Caller: It’s a silver Dodge.
+Dispatcher: Okay.
+Caller: And- and officers have arrived.
+Dispatcher: Okay. I’ll go ahead and let you talk to the officers. Thank you.
+Caller: Okay, thank you.
+Dispatcher: Uh-huh. Bye.

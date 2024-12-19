@@ -1,0 +1,85 @@
+Dispatcher: [location] Dispatcher, what’s the address of the emergency?
+Caller: Yes, ma’am. I’m at [address].
+Dispatcher: Can you repeat the address for verification, sir?
+Caller: [address].
+Dispatcher: Tell me exactly what happened. 
+Caller: Uh- our 3-year-old is nowhere to be found. We have looked everywhere in our house and out in our yard, and our little girl, her little girl, is- she’s missing. 
+Dispatcher: Okay, and how old is she, sir?
+Caller: She is 3 years old. 
+Dispatcher: Okay. So let me get some information from you, okay?
+Caller: Yes, ma’am.
+Dispatcher: Alright, so when was the last time you seen her? 
+Caller: It would have been last night. Everyone, everyone went to bed at the same time. 
+Dispatcher: And what time was that, sir?
+Caller: Uh- may- maybe 8 o’clock, 8:30. 
+Dispatcher: Alright, I’m just getting this information in the system. And you looked in the bedroom, under the bed, and everywhere, sir? Not every-
+Caller: Bedrooms, closets, under, in- every- everywhere. We went through the house 2 or 3 times and in the yard. It’s not like her to ju- ju- go outside at all. Uh- not- not by her- not in the middle of the night or even the morning by herself. 
+Dispatcher: Yes, sir. Now does she have a physical, medical, or mental condition that we need to be aware of?
+Caller: She- she- she has musc- she has muscular dystrophy. Uh- she- she falls and (unintelligible) a lot of shit. And otherwise, she- she- she's perfectly able.
+Dispatcher: Okay. Alright, so I need to get a description. What race is she?
+Caller: She is white, blonde hair, about uh- about 3 feet tall. 
+Dispatcher: Do you know about- how much she weighs?
+Caller: She's- uh- about 30 pounds. 
+Dispatcher: Okay, does she have any characteristics on her face like uh- scars or a birthmark, anything?
+Caller: Blue eyes. She has pyjamas. 
+Dispatcher: Okay, and what kind of PJs did you put her in, sir? What color? Do you remember?
+Caller: Uh- I think they- they were pink. 
+Dispatcher: Okay, and her name?
+Caller: Her name- her name is [daughter's name]. 
+Dispatcher: [daughter's name]?
+Caller: [daughter's surname].
+Dispatcher: Last name [daughter's surname]?
+Caller: Yes. 
+Dispatcher: Okay. Alright, sir. And who was the last person that you seen her with?
+Caller: Uh- the- the- the last person, me and my- me and my girlfriend put her- put her to bed right when we came in. We came in from a trip last night and everybody went to bed at like 8:30 or 8 around that time. 
+Dispatcher: Okay. 
+Caller: I can’t say for sure because we usually go to bed at- at 7:30, but we were coming home from vacation. 
+Dispatcher: Okay. And do you know anywhere that she might go at all? A neighbor’s or anywhere? 
+Caller: No. Uh- we- we don’t- we're a village and we don't get along- we don't have any- any neighbors that are uh- friendly. 
+Dispatcher: Okay. Has she been missing before, sir?
+Caller: No. No, ma’am. 
+Dispatcher: Okay. Did you see any personal items taken like a blanket or a teddy bear that she might have?
+Caller: (unintelligible). No, nothing. (unintelligible). My girlfriend says that the pyjamas that she was sleeping in are lying on the floor in there. 
+Dispatcher: What’s on the floor?
+Caller: She said the pyjamas that she put her in are laying (unintelligible).
+Dispatcher: Sir, you’re fading out, sir. Hello?
+Caller: Can you hear me now?
+Dispatcher: Yes, sir. Now, what were you saying?
+Caller: She said that the pyjamas that she put her to bed in are laying beside her bed. 
+Dispatcher: Okay, so she is not in the pink pyjamas. 
+Caller: They're pink- they're- they're pink footy pyjamas. I can’t recall exactly what she went to bed in because I didn’t dress her. 
+Dispatcher: Okay, and you said they’re on the floor?
+Caller: Yes, they’re on the floor in her room. 
+Dispatcher: Okay. Does she have any kind of trackable device with her, sir, like a tablet or anything that we can track, GPS? 
+Caller: No. 
+Dispatcher: And who has legal custody, sir?
+Caller: Uh- her mother, [mother's name]. 
+Dispatcher: Is that with a K or a C?
+Caller: With a K.
+Dispatcher: Okay. Now, was there any letters or anything left behind? Do you think anyone may have-
+Caller: Uh- nothing- nothing. 
+Dispatcher: Okay.
+Caller: She- she- she just- and she- and she- and she (unintelligible).
+Dispatcher: Okay, may I have your name, sir?
+Caller: My name is [caller's name].
+Dispatcher: Okay, you said your first name is-
+Caller: [caller's first name]. 
+Dispatcher: You’re fading out again, sir. Hello?
+Caller: Can you hear me?
+Dispatcher: Yes, sir. 
+Caller: Can you hear me?
+Dispatcher: Mm-hm. And you said your name is?
+Caller: [caller's name]. 
+Dispatcher: [caller's surname]?
+Caller: Yes, [caller's surname]. 
+Dispatcher: And last name?
+Caller: [caller's surname].
+Dispatcher: Okay, first name?
+Caller: [caller's first name]. 
+Dispatcher: Okay. Now just try to find a recent photo of her, sir. Make any list of friends or addresses, phone numbers that you feel that she may go to or anyone that she knows in the area, that she's familiar with, okay?
+Caller: Okay. 
+Dispatcher: Alright, just try to locate her and have someone stay at home just in case she does return. If she is located, sir, give us a call back immediately, okay?
+Caller: Okay. 
+Dispatcher: We’ll get an officer dispatched as soon as possible, okay?
+Caller: Okay. Thank you so much.
+Dispatcher: You’re welcome. 

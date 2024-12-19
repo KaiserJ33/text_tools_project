@@ -1,0 +1,51 @@
+Dispatcher: [location] 911, [dispatcher's name], what’s the address of your emergency?  
+Caller:  Yes ma'am, uh-, my oldest daughter, I was taking a nap, I just woke up and I can’t find her anywhere. I went to the neighbors and they’re not home and I don’t know where she’s at.  
+Dispatcher:  How old is she? 
+Caller:  She’s about to be 4 next month. I have a newborn with me too, a- a 1-year-old, and I got her and I can’t find my other- the other one. I really need some help right now.  
+Dispatcher:  Listen, listen to me, what’s your address? 
+Caller:  [address]. 
+Dispatcher:  Have you looked under the beds and in the closets? 
+Caller:  Uh, no, ma'am, I- I called her name though. I can’t find her anywhere. I went next door, I- I’ve been hollering her name outside and I can’t find her.  
+Dispatcher:  She may have fallen asleep. I need you to go look under the beds and stuff while I start people that way, okay? 
+Caller: Yes, ma'am. Yes- yes ma'am.    
+Dispatcher:  Alright. And you said [address]? 
+Caller:  Yes, ma'am. 
+Dispatcher:  Are you on a mobile phone? 
+Caller:  Uh- no, ma'am, this- it’s a- uh- landline phone but it’s a corded phone.  
+Dispatcher:  Okay, well go ahead and, and take it with you and let’s go look under beds. Tell me your name.   
+Caller: No, it’s a- it's a corded- My name is [caller's name]. It’s a corded phone, I- I have to put down the phone and go look.  
+Dispatcher:  Okay, what is your phone number? 
+Caller:  Uh- [caller's number]. Yes ma'am.  
+Dispatcher:  What is her name? 
+Caller: Uh- [daughter's name]. She was, I- I gotta- I’m gonna check real quick, okay? 
+Dispatcher:  Don’t hang up though, come on back to the phone. 
+Caller:  No ma'am, no ma'am, okay. Hello?  
+Dispatcher:  You there? 
+Caller:  She’s not here.  
+Dispatcher:  Okay-
+Caller: She's not here.
+Dispatcher: Listen to me, take a deep breath for me, okay? Is her last name [surname]?
+Caller:  No, ma'am, it’s [correct surname]. 
+Dispatcher:  Okay, what’s her date of birth? 
+Caller:  Uh- I don’t- I don’t-  
+Dispatcher:  Listen, listen to me- 
+Caller:  The 4th of next month she’ll be 4. Uh- my wife’s at work, she’s about to be home and I don’t know where my daughter is.  
+Dispatcher:  Is she a white female? 
+Caller:  Yes, ma'am. She’s wear- she’s wearing uh- blue jeans and a long sleeve Mickey Mouse shirt.  
+Dispatcher: Okay, and- and what color is her hair? 
+Caller: It’s brownish blonde. I gotta go next door, I just wanna check the neighbor’s house.  
+Dispatcher:  Okay, you stay with me for just a minute, I’ve already got people on the way for you, okay? You said she has light brown hair? 
+Caller: Yes, ma'am.  
+Dispatcher: Alright, and she was wearing blue jeans and a long sleeve Mickey Mouse shirt? 
+Caller:  No, blue- blue short jeans and- and the long sleeve, uh- Minnie- Minnie Mouse.  
+Dispatcher:  Blue jean shorts and a long sleeve Minnie Mouse shirt? 
+Caller: Yes, ma'am.  
+Dispatcher: Okay. Light brown hair?  
+Caller: Yes, ma'am. [daughter's name], baby, please come out. I don’t know if she’s just hiding or what. I don’t know, I can’t find her anywhere, she don’t do this.  
+Dispatcher:  Okay.  
+Caller: The front door was wide open and I can’t find her.  
+Dispatcher:  Okay, listen to me. The front door was open? 
+Caller:  Yes, ma'am, and I- 
+Dispatcher: Alright, don’t hang the phone up, go check if you need to. I’ve got units on the way to you, okay? 
+Caller: Okay. 
+Dispatcher: Come back to me if you don’t get it with an officer.  

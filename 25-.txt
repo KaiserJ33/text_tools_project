@@ -1,0 +1,52 @@
+Dispatcher: [location] Public County Safety, this is [dispatcher's name].
+Caller: Yes, uh- how do I go about, I guess, uh- a missing person?
+Dispatcher: Are you wanting to report a missing person?
+Caller: Yes.
+Dispatcher: Okay, where are they missing from?
+Caller: Last seen from uh- [location], left the [place].
+Dispatcher: Okay. 
+Caller: Last night.
+Dispatcher: Okay.
+Caller: And walking south on [street name], uh- through a friend.
+Dispatcher: Okay, and who is missing?
+Caller: Uh- it's my girlfriend and she's- she does live with me and she's never done this before.
+Dispatcher: What's her name?
+Caller: [girlfriend's name].
+Dispatcher: And did she live with you?
+Caller: Yes.
+Dispatcher: And where was she last seen?
+Caller: We were at the [location] and I think it's on the corner of [street name] and [street name]. 
+Dispatcher: On [street name] there?
+Caller: Yeah, just off of [street name].
+Dispatcher: Okay.
+Caller: And then she was walking south on [street name] from there. I was on the same road in a different car around there.
+Dispatcher: Okay. Do you know what she was last seen wearing?
+Caller: Yeah, she had a black and gray striped- horizontal striped top. 
+Dispatcher: Okay.
+Caller: And with black pants, black like capri pants and grey high heel shoes. 
+Dispatcher: Okay. Any jewellery or anything?
+Caller: Uh- no.
+Dispatcher: And what's your name?
+Caller: [caller's first name].
+Dispatcher: And last name?
+Caller: [caller's last name].
+Dispatcher: So she was on foot?
+Caller: Yes.
+Dispatcher: No idea where she might go?
+Caller: No idea. I called some friends.
+Dispatcher: Did she have a cellphone with her or anything?
+Caller: Yeah, and it's been off since last night.
+Dispatcher: Okay.
+Caller: It goes right to voicemail.
+Dispatcher: Can you wait there for an officer?
+Caller: Yeah. How long will it be?
+Dispatcher: Uh- I'm not sure but uh- I think it's important that you report her missing.
+Caller: Yes.
+Dispatcher: So just wait there and I'll have an officer come over and talk to you. If it's going to be a long I'll call you back, okay?
+Caller: Okay.
+Dispatcher: So, what- what time was that last night you left her?
+Caller: Well, I didn't- I didn't last see her. It was probably around eleven thirty, twelve, I'm guessing? 
+Dispatcher: Okay. That's the last you heard from her?
+Caller: Yep. And I had talked to her on the phone. She was with a couple of my friends in a different vehicle and then I was riding down there from the west side. 
+Dispatcher: Okay, [caller's name]. I have a call in for you. If it's going to be a lengthy wait, I'll give you a call back, okay?
+Caller: Okay. Thank you.

@@ -1,0 +1,58 @@
+Dispatcher: 911, what’s your emergency?
+Caller: Uh- my wife fell asleep in the bathtub and I think she’s dead. 
+Dispatcher: What’s- what’s the address?
+Caller: [address].
+Dispatcher: Okay, I need you to calm down for me. I can’t understand the address. What was it?
+Caller: [address]. 
+Dispatcher: [address]?
+Caller: Yes, [address].
+Dispatcher: And what’s going on?
+Caller: Uh, she fell asleep in the bathtub, I think. I was downstairs. I just came up here and she was laying face down in the bathtub. 
+Dispatcher: In- in the water?
+Caller: Yes. 
+Dispatcher: How old is she?
+Caller: She’s 24.
+Dispatcher: She’s in the bathtub?
+Caller: Yes, she’s in water. It’s draining right now. I tried to do, like, everything I could. I tried to-
+Dispatcher: Okay. Is she- are you taken- have you taken her out of the water now?
+Caller: Yeah, yeah. The water is completely drained, but she’s just laying here unconscious-
+Dispatcher: Is she still in the bathtub?
+Caller: Yes, yes. 
+Dispatcher: Okay, so what- what you drained the water out of the tub?
+Caller: Yes. 
+Dispatcher: How long was she in the bathtub?
+Caller: I have- I- she was in here for at least 15 minutes, half hour, somewhere in there. I was downstairs watching TV. She falls asleep in the tub all the time, and- 
+Dispatcher: And how are you related to her, are you her mother or?
+Caller: The hus- I’m her husband. 
+Dispatcher: Husband?
+Caller: Yes. 
+Dispatcher: What’s your name?
+Caller: [caller's name].
+Dispatcher: Spell your last name for me, [caller's name]. 
+Caller: [caller's name].
+Dispatcher: Have you tried CPR?
+Caller: Yes, as much as I could with what little bit I know. 
+Dispatcher: Okay. 
+Caller: Is somebody coming?
+Dispatcher: Yeah, they’re- they’re already on the way, [caller's name]. There’s no way you can get her out of the bathtub?
+Caller: I can try, but I have to set the phone down.
+Dispatcher: Okay. It’s- it’s better we get her out of the bathtub and get her on a flat surface. 
+Caller: Okay, okay. I’m- I’m dropping the phone. She’s on a flat surface.
+Dispatcher: What’s that?
+Caller: She’s on a flat surface, come on.
+Dispatcher: Okay. Go- go ahead and get back to CPR...keep doing- trying CPR. They’ll be there in a little bit, okay?
+Caller: Yes.
+Dispatcher: You’re sure- is your doors unlocked?
+Caller: No. 
+Dispatcher: Okay, you need to run and unlock the door so that way they can get in when they get there.
+Caller: Okay.
+Dispatcher: And then come- and then come back.
+Caller: Okay. Okay, they’re unlocked now. 
+Dispatcher: Okay. 
+Caller: We’re upstairs.
+Dispatcher: You’re upstairs?
+Caller: Yes. 
+Dispatcher: Do you have more than one bathroom in the house, or?
+Caller: No, there’s two, but the upstairs is the only one with a bathtub. 
+Dispatcher: Okay, [caller's name], go ahead and put the phone down and try CPR for me again, okay?
+Caller: Okay. Yes, I am. [to wife] come on, [wife's name], come on. 

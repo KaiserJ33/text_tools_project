@@ -1,0 +1,61 @@
+Dispatcher: 911, where's you emergency?
+Caller: Yes, ma'am. My name is [caller's name], address is [address].
+Dispatcher: Ma'am?
+Caller:  My name is [caller's name] in [address]
+Dispatcher: Okay, I'm not getting your address clearly. Can you slow down a little bit and tell me again? 
+Caller: [address].
+Dispatcher: [address]?
+Caller: [address].
+Dispatcher: [address]?
+Caller: Yes, ma'am.
+Dispatcher: Okay. Okay, ma'am. How can I help you?
+Caller: I woke up this morning and my daughter was not in this house. I don't know if she walked out or I don't know what's going on but she's not here. I'm not-
+Dispatcher: How old is your daughter?
+Caller: She's five.
+Dispatcher: Five?
+Caller: Yes, ma'am.
+Dispatcher: Okay. What time did you wake up? When did you last see her?
+Caller: I saw her, uh- at five thirty last night. 
+Dispatcher: Five thirty last night? Is that when you put her to bed?
+Caller: Yes, ma'am. No, when she went back to bed.
+Dispatcher: Okay. That was five this morning, is that what you're telling me?
+Caller: Yes, ma'am.
+Dispatcher: Okay. Uh- were there any doors open or anything like that?
+Caller: She know how to unlock the front doors.
+Dispatcher: Okay. What is her name?
+Caller: [daughter's name].
+Dispatcher: Spell that name for me.
+Caller: [daughter's name].
+Dispatcher: And she white, black or hispanic?
+Caller: She's mixed.
+Dispatcher: Okay.
+Caller: She's bi-racial.
+Dispatcher: Okay, what was she wearing?
+Caller: She's wearing just a blue big old bla- a blue shirt with designs on it. But her hair is out.
+Dispatcher: Okay. Did she have on, uh- any hat.
+Caller: She didn't take no shoes, no pants, no nothing.
+Dispatcher: Did she have on underwear?
+Caller: Yes, ma'am.
+Dispatcher: Okay. What- do you know what color?
+Caller: They're white and got pink- I guess- I- I can't really remember. They're like white with pink designs on them.
+Dispatcher: Okay. Okay. And- you said none of the doors were open?
+Caller: No, ma'am. They were locked but she knows how to unlock the front door.
+Dispatcher: Was it closed this morning?
+Caller: Yes, ma'am. 
+Dispatcher: And you said it was around five thirty?
+Caller: Yes, ma'am.
+Dispatcher: Okay. Have you checked the neighbourhood?
+Caller: I checked everywhere. I haven't checked the back end of the neighbourhood yet but I checked the front end. I'm just- I don't know what else to do- I'm so- I'm- I don't know what else to do.
+Dispatcher: Are there any more uh- juveniles inside the home?
+Caller: There's my son but he's here.
+Dispatcher: Okay. And your door was not unlocked, that's what you're telling me?
+Caller: No it was not unlocked. But I'm telling you, she knows how to unlock it. I'm hoping that she didn't unlock it and walk out.
+Dispatcher: Okay. What's the number you're calling me from, ma'am?
+Caller: [caller's number].
+Dispatcher: Okay, we already got your call and going to get someone out. You said her hair- her hair was out?
+Caller: Hurry. Yes. It was like a frizzy afro.
+Dispatcher: How much does she weigh, do you know?
+Caller: I don't know ma'am, I don't remember.
+Dispatcher: Okay. Alright, ma'am. Just try to uh- check your home again and check around the neighbourhood. If anything changes, call us back. But we already got the call in. And we're going to get someone out as soon as we can, okay?
+Caller: Alright.
+Dispatcher: Alright, ma'am. Thank you.

@@ -1,0 +1,93 @@
+Dispatcher: Emergency 911, what's the address of your emergency?
+Caller: Please, please. My kid choked. My child choked.
+Dispatcher: Ma'am. Ma'am. 
+Caller: Oh my god, please help me.
+Dispatcher: Ma'am. Ma'am, ma'am. Ma'am, calm down. 
+Caller: (unintelligible)
+Dispatcher: Ma'am, calm down. Are you at [address]?
+Caller: Yes, I am. Hurry. 
+Dispatcher: Okay.
+Caller: Hurry.
+Dispatcher: Okay, and how old is your son?
+Caller: He's not breathing.
+Dispatcher: Ma'am. Calm down.
+Caller: He's not breathing. He's turning blue. His lips are blue.
+Dispatcher: Ma'am. Ma'am. Ma'am, Miss [caller's surname], Miss [caller's surname]?
+Caller: Hurry. Oh my god. 
+Dispatcher: Miss [caller's surname].
+Caller: My son. God, please. How do I- okay. Calm down, okay. 
+Dispatcher: Ma'am, is your (unintelligible)?
+Caller: His eyes- his eyes are not dilated. His eyes are blazed. His eyes aren't dilated. He's- he's pale. He's not breathing. What do I need to do? What do I need to do? What do I need to do? He's crapped all over himself. What do I need to do? What do I need to do?
+Dispatcher: Ma'am, calm down, okay? Stay on the phone with me, I'm going to get some medics en route. Do not hang up. Hold on.
+Caller: He choked- he choked- he choked on- he's got his neck- oh my god. His whole neck is- he- he- he str- he got strangled on the- he got strangled- oh my god. He got strangled on (unintelligible). Oh my god. Oh my god. 
+Dispatcher: Ma'am, ma'am? Miss [caller's last name]. Calm down, okay? I've got medics en route, okay? Okay. How did this happen?
+Caller: Okay. He- he would have died- oh my god, he would have died. He got his neck caught in- on a soccer net. He got his neck stuck on a soccer net. 
+Dispatcher: Okay, Miss [caller's last name]. I need you to calm down, okay? It's going to be fine. We've got the paramedics en route. Hold on one second.
+Caller: Oh my god. He stopped breathing. What do I need to do? What do I need to do? I mean- I- I can do CPR, or something. Oh my god. Please tell me what I need to do. Please, god, please, no, god. I'm going to kill myself. 
+Dispatcher: Miss [caller's last name]. Miss [caller's last name]. I need you to calm down so I can transfer you to [medical centre], okay?
+Caller: Hurry, please.
+Dispatcher: I've both officers and medics en route but, ma'am, you need to calm down so that they can help you, okay?
+Caller: He's not- he's not responding. He's (unintelligible), his eyes are dilated. 
+Dispatcher: Miss [caller's last name]. Miss [caller's last name]. 
+Caller: He's not breathing.
+Dispatcher: Miss [caller's last name].
+Caller: What do I need to do?
+Dispatcher: You need to calm down so I can get you transferred to [medical centre], okay?
+Caller: I can't calm down. 
+Dispatcher: Okay.
+Caller: Oh god.
+Dispatcher: I need you to calm down, so I can transfer you. Hold on. 
+Caller: Oh, he's drifting away. Please, god. Please, god. Come on, god. Oh my god. 
+Dispatcher 2: Hi, my name is [dispatcher 2's name]. Hello?
+Caller: Hello? Help me. 
+Dispatcher 2: Okay, ma'am, listen to me, okay? What's the address you're at?
+Caller: He strangled- he strangled himself. He's gone blue.
+Dispatcher 2: Ma'am? Ma'am, listen to me. What's the address?
+Caller: Oh my god. It's [address]. Come, help me.
+Dispatcher 2: [address], what now?
+Caller: [address]. He strangled himself.
+Dispatcher 2: Okay, listen to me. Ma'am, okay? I can help you but stay calm, okay? (unintelligible).
+Caller: I can't stay calm. My god, I'm going to go kill myself.
+Dispatcher 2: What city? Ma'am? Ma'am?
+Caller: Oh my god.
+Dispatcher 2: What city are you in?
+Caller: I'm in [state].
+Dispatcher 2: I understand that. What city?
+Caller: Oh my god. 
+Dispatcher: Hi, this is [dispatcher's name]. We've already got medics en route. It's [address].
+Caller: Go open the front door, go open the front door. [child's name], please don't leave me, son. 
+Dispatcher: We've got both police and medics-
+Dispatcher 2: How old is he, ma'am?
+Caller: He's only one.
+Dispatcher 2: He's a one-year-old?
+Caller: Yes.
+Dispatcher 2: Okay. What's the phone number there, ma'am?
+Caller: [phone number].
+Dispatcher 2: Okay. It's a one-year-old child?
+Caller: Please, god. He strangled himself. How long is it going to take them until they get here?
+Dispatcher 2: Ma'am? Ma'am, listen to me, okay?
+Caller: Oh my god.
+Dispatcher: The medics have been en route since you called but you're going to have to stay calm with me, okay?
+Caller: Oh my god.
+Dispatcher 2: How did- how did that happen, ma'am?
+Caller: Oh my god. He got his neck strangled in the garden- in the- the net. On a soccer net. 
+Dispatcher 2: On a soccer net?
+Caller: Yes, he got his neck strangled on a soccer net. 
+Dispatcher 2: Okay, so he's still caught up in it?
+Caller: No, he's not. I cut him out.
+Dispatcher 2: Okay. Do you know how long he could- how long he was down for?
+Caller: I have no idea. Probably about ten, fifteen minutes. 
+Dispatcher 2: Okay, ma'am, do you-
+Caller: My god. Oh my god. Please, god, help him. 
+Dispatcher 2: Ma'am. Listen to me, okay? We can-
+Caller: Oh my god. Help me.
+Dispatcher 2: Ma'am. 
+Caller: Oh my god. Help. Help. God. He's going to go brain dead.
+Dispatcher: Sir, I've got PD on scene if you want to go and just- just to make sure-
+Dispatcher 2: Can they- can they (unintelligible)?
+Dispatcher: She's not- she's not (unintelligible) on the phone. She won't listen. 
+Caller: Oh my god. Oh my god.
+Dispatcher: Police got there. Medics coming. 
+Caller: Oh my god. He's not responding.
+Dispatcher 2: You there?
+Dispatcher: Yeah, I'm here. Yeah, she- she wouldn't going to calm down. She wouldn't calm down for me either. I've got PD on scene and medics should be almost there. 

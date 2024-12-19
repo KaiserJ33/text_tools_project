@@ -1,0 +1,102 @@
+Dispatcher: [location] ambulance. Where do you need us?
+Caller: [address].
+Dispatcher: [address]?
+Caller: [address]
+Dispatcher: And what is the closest major intersection?
+Caller: It’s [intersection] or [intersection]. 
+Dispatcher: Okay. Is this a house or an apartment?
+Caller: It's a house. 
+Dispatcher: What's the telephone number you're calling from?
+Caller: [phone number].
+Dispatcher: Okay, so tell me exactly what's happened. 
+Caller: I just came home and I was out running and my wife was taking a bath, and when I came home, she's in the bath, but she's under the water and she's not breathing. 
+Dispatcher: Okay, sir, did you remove the water from the bathtub?
+Caller: No, I haven't. 
+Dispatcher: Okay, ju- take the moment to do that now, okay?
+Caller: Okay, okay. 
+Dispatcher: Okay, how old is she, sir? 
+Caller: She's 29.
+Dispatcher: She's 29? Is she breathing at all?
+Caller: No, I don't think so. 
+Dispatcher: Are you able to get her out of the bathtub?
+Caller: I probably can.
+Dispatcher: [to colleague] (inaudible).
+Caller: Do you want me to do that now?
+Dispatcher: Yes, I want you to do that now. Get her out, put her on the floor, flat on her back. Okay?
+Caller: I know how to do CPR. 
+Dispatcher: Okay, well, I'm going to guide you through that. Do that right now. Get her out, put her flat on her back. Let me know when it's done.
+Caller: Alright. [wife's name], [wife's name]. Come on. Oh God. She’s- she's 5 months pregnant. Oh, I can’t do it. I can’t do it. Oh, Lord. Oh, Lord. I can’t- I can’t do it. She’s too heavy. She’s too slippery.
+Dispatcher: You can't get her out of the bathtub? Sir?
+Caller: Yeah.
+Dispatcher: Okay, so, if you can, try giving you something that will give you- get you a better grip, okay? Can you try wrapping a towel around her arm? Might give you a little bit better grip to get her out.
+Caller: Okay. 
+Dispatcher: Okay, I know she's slippery. 
+Caller: [Wife's name], [wife's name], come on.
+Dispatcher: Try grabbing her right under her arms, under her armpits and pull her out that way, if that's possible.
+Caller: Yeah.
+Dispatcher: Did you get her out?
+Caller: Almost.
+Dispatcher: Okay. All right. When you do, lay her on her left side and wedge a pillow or something behind her back. Roll up the towel and put it behind her back and lay her on her left side, okay?
+Caller: Damn it. Lord.
+Dispatcher: You're doing good, okay? Keep going. Let me know when you've done that, okay?
+Caller: I can’t- I can’t get her out. It’s too much. 
+Dispatcher: You can't get her out of the tub? Okay, we have plenty of help coming, okay? What's your name?
+Caller: What’s my name?
+Dispatcher: Yes, what's your name?
+Caller: [caller's name].
+Dispatcher: [caller's name]?
+Caller: Yes.
+Dispatcher: Okay, [caller's name], we have plenty of help coming. We have police, fire and ambulance driving there as fast as we can, okay? 
+Caller: I can’t get her out. 
+Dispatcher: Hey, [caller's name], we're coming, okay? [Caller's name], do you think that you can try and do CPR on her while she's in the- while she is- Can you leave her flat on her back in the tub?
+Caller: Yeah. Yeah. Yeah, she's on her back now. 
+Dispatcher: Okay. Is there any way you can try and get her more onto her left side, since she is pregnant?
+Caller: Yeah.
+Dispatcher: Okay. 
+Caller: She's on the left.
+Dispatcher: Use the towel to try and prop up on her left side, okay? 
+Caller: Yeah. Oh, okay, she’s- Come here. Come here. Okay, she’s on her left side. 
+Dispatcher: Okay. Now, can you see anything in her mouth? 
+Caller: No, no. 
+Dispatcher: Okay. I want you to place your- Sorry. I want you to- You don't see anything in her mouth? 
+Caller: No.
+Dispatcher: Okay. I want you to try and tilt her head back. Give her- Try and open up her airway.
+Caller: Okay. 
+Dispatcher: Okay, and we're going to start to do compressions, okay? 
+Caller: Okay. Hang on a moment. Okay, compressions? 
+Dispatcher: Okay, so I want you to place the heel of your hand on the breastbone, right in the center of her chest.
+Caller: Yeah, 30, right? 
+Dispatcher: Right between the nipples. Place your other hand on top of that hand. I want you to press down firmly, 2 inches, with the heel of your lower hand touching her chest. 
+Caller: Okay.
+Dispatcher: Listen carefully. You need to pump the chest fast and hard, at least twice per second, okay?
+Caller: Okay.
+Dispatcher: We're going to do this six hundred times, or until help can take over.
+Caller: Okay.
+Dispatcher: Let the chest come all the way up between pumps and count out loud so I can count with you, okay?
+Caller: Okay.
+Dispatcher: Okay. So, 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 1… Keep going, okay?
+Caller: 4. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 
+Dispatcher: Keep going. Keep going.
+Caller: 3.
+Dispatcher: We have plenty of help coming. 
+Caller: 2, 3, 4. 1, 2, 3, 4. 1… 
+Dispatcher: Keep going, [caller's name], keep going. You’re to the next level, right here with you. 
+Caller: …4. 1, 2. 1, 2, 3, 4.
+Dispatcher: Keep going.
+Caller: 1, 2, 3, 4. 3, 4. 1, 2, 3, 4. Come on. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 
+Dispatcher: 1, 2, 3, 4. 1, 2, 3, 4. You’re doing excellent. Keep going. They're almost there, okay? 2, 3, 4. I don't want you to stop until help is right there with you. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2, 3, 4. 1, 2. Keep going.
+Caller: I’m going to answer the door. Open the door, it's open.
+Dispatcher: Just yell for them to come in. 
+Caller: Come in. 3, 4.
+Dispatcher: 1.
+Caller: Open the door.
+Dispatcher: Is it unlocked?
+Caller: Yeah, it is.
+Dispatcher: Okay. 
+Caller: Okay, it’s locked. I might have locked it.
+Dispatcher: Okay. Well, go check and see, okay? 
+Caller: I unlocked the door. 
+Dispatcher: Okay, they're going to help you now. Okay, [caller's name], you did an excellent job.
+Caller: Okay, okay.
+Dispatcher: Okay, so you can hang up with me now. They will help you.
+Caller: Okay, thanks

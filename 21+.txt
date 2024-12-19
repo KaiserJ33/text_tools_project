@@ -1,0 +1,43 @@
+Dispatcher: 911, do you need police, fire or an ambulance?
+Caller: The police. 
+Dispatcher: This is the police, how may I help you?
+Caller: I'm calling you 'cause I'm at a park and my son missing.
+Dispatcher: What park are you at, ma'am?
+Caller: I'm at- I'm at a park by [address].
+Dispatcher: How old is your son?
+Caller: Three.
+Dispatcher: Okay. you said [address]?
+Caller: Yes. 
+Dispatcher: What's the name of the park, ma'am? Because [street name] and [street name] don't cross. What's the name of the park?
+Caller: It's call- It's [park name]. 
+Dispatcher: [park name]?
+Caller: [park name].
+Dispatcher: Do you have the name that you see on the sign for me, ma'am?
+Caller: [park name].
+Dispatcher: How old is your son?
+Caller: Three.
+Dispatcher: Ma'am, what is your name?
+Caller: [caller's name].
+Dispatcher: [caller's surname]?
+Caller: [caller's name].
+Dispatcher: What's your phone- your cellphone number?
+Caller: [cellphone number].
+Dispatcher: Okay, ma'am, I've sent a call down for the police to respond. Your son, what is he wearing?
+Caller: He's wearing a red and black sweater with some blue jeans. He got some black and blue tennis shoes. He got a gray coat. 
+Dispatcher: Okay. How long has it been since you last saw him?
+Caller: 15 minutes, or so. I was looking everywhere for him, I can't find him.
+Dispatcher: Okay. Is he light skin, dark skin?
+Caller: He's brown skin.  
+Dispatcher: What about his hair?
+Caller: His hair is brown. 
+Dispatcher: Is it a braided or low haircut?
+Caller: It's a low haircut.
+Dispatcher: Does he have any scars or birthmarks that's visible?
+Caller: No. 
+Dispatcher: Okay. Okay. I'm- I want you to stay right there at the park, okay?
+Caller: Yeah.
+Dispatcher: Okay. And was there anyone else around or anything when you has- were at the park?
+Caller: No. It's just me and my two other kids.
+Dispatcher: Okay. Okay, the police are on the way for you, ma'am, okay?
+Caller: Okay.
+Dispatcher: Bye bye.

@@ -1,0 +1,31 @@
+Dispatcher: 911, what's your emergency?
+Caller: Yeah, there was a guy in my daughter's room. He just ran out the front door.
+Dispatcher: And, ma'am, what's the address?
+Caller: [address].
+Dispatcher: Is there a name to that neighborhood?
+Caller: [location].
+Dispatcher: Okay. Stay on the phone with me. Did you see him?
+Caller: Uh- my daughter saw him.
+Dispatcher: Was he black, white, hispanic?
+Caller: (to daughter) Black, white or hispanic? He was black? Uh- what color shirt? Gray shirt and thing on his head- a hat or cap or? A cap on his hat- uh- on his head? 
+Dispatcher: Grey shirt and a cap on his head?
+Caller: He had a cap on his head and he touched her leg and she woke up and saw him and yelled for me. And I just had- uh- recently had some items missing in the last couple months from my house.
+Dispatcher: Okay, do you know which- did- did you see which way he went, out of the window, or?
+Caller: No. He didn't leave out of the window. He ran down the hallway out the front door when she screamed for me.
+Dispatcher: Okay. And you didn't see which way he went or anything like-
+Caller: No, no, no, no. I just uh-
+Dispatcher: Okay. How long ago was this?
+Caller: This was, like- uh- like maybe a- a minute ago?
+Dispatcher: Okay. Alright, ma'am. I have them on the way to you. What's your name?
+Caller: [caller's first name].
+Dispatcher: And your last name? So what's your last name?
+Caller: [caller's last name]. 
+Dispatcher: And the phone number there?
+Caller: Uh- my cell- uh- I don't have a home phone. My cell is [cellphone number].
+Dispatcher: Okay. [cellphone number]?
+Caller: Yes.
+Dispatcher: Did he come in an unlocked window?
+Caller: Uh- I don't know yet. I really haven't gone back in her room. I was just trying to console her.
+Dispatcher: Okay. Alright, ma'am, I have them coming to you.
+Caller: Thank you.
+Dispatcher: Okay, you're welcome. Bye bye.
